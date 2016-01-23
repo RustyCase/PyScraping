@@ -1,0 +1,194 @@
+{
+  "receiving-leaders": [
+    {
+      "stat": "1871", 
+      "name": "Julio Jones", 
+      "rank": 1, 
+      "team": "ATL"
+    }, 
+    {
+      "stat": "1834", 
+      "name": "Antonio Brown", 
+      "rank": 2, 
+      "team": "PIT"
+    }, 
+    {
+      "stat": "1521", 
+      "name": "DeAndre Hopkins", 
+      "rank": 3, 
+      "team": "HOU"
+    }, 
+    {
+      "stat": "1502", 
+      "name": "Brandon Marshall", 
+      "rank": 4, 
+      "team": "NYJ"
+    }, 
+    {
+      "stat": "1450", 
+      "name": "Odell Beckham", 
+      "rank": 5, 
+      "team": "NYG"
+    }
+  ], 
+  "interception-leaders": [
+    {
+      "stat": "8", 
+      "name": "Reggie Nelson", 
+      "rank": 1, 
+      "team": "CIN"
+    }, 
+    {
+      "stat": "8", 
+      "name": "Marcus Peters", 
+      "rank": 2, 
+      "team": "KC"
+    }, 
+    {
+      "stat": "7", 
+      "name": "Kurt Coleman", 
+      "rank": 3, 
+      "team": "CAR"
+    }, 
+    {
+      "stat": "7", 
+      "name": "Trumaine Johnson", 
+      "rank": 4, 
+      "team": "STL"
+    }, 
+    {
+      "stat": "6", 
+      "name": "Marcus Williams", 
+      "rank": 5, 
+      "team": "NYJ"
+    }
+  ], 
+  "sack-leaders": [
+    {
+      "stat": "17.5", 
+      "name": "J.J. Watt", 
+      "rank": 1, 
+      "team": "HOU"
+    }, 
+    {
+      "stat": "15.0", 
+      "name": "Khalil Mack", 
+      "rank": 2, 
+      "team": "OAK"
+    }, 
+    {
+      "stat": "14.5", 
+      "name": "Ezekiel Ansah", 
+      "rank": 3, 
+      "team": "DET"
+    }, 
+    {
+      "stat": "13.5", 
+      "name": "Carlos Dunlap", 
+      "rank": 4, 
+      "team": "CIN"
+    }, 
+    {
+      "stat": "12.5", 
+      "name": "Chandler Jones", 
+      "rank": 5, 
+      "team": "NE"
+    }
+  ], 
+  "tackle-leaders": [
+    {
+      "stat": "154", 
+      "name": "NaVorro Bowman", 
+      "rank": 1, 
+      "team": "SF"
+    }, 
+    {
+      "stat": "150", 
+      "name": "D'Qwell Jackson", 
+      "rank": 2, 
+      "team": "IND"
+    }, 
+    {
+      "stat": "147", 
+      "name": "Lavonte David", 
+      "rank": 3, 
+      "team": "TB"
+    }, 
+    {
+      "stat": "135", 
+      "name": "Reshad Jones", 
+      "rank": 4, 
+      "team": "MIA"
+    }, 
+    {
+      "stat": "133", 
+      "name": "Paul Posluszny", 
+      "rank": 5, 
+      "team": "JAC"
+    }
+  ], 
+  "rushing-leaders": [
+    {
+      "stat": "1485", 
+      "name": "Adrian Peterson", 
+      "rank": 1, 
+      "team": "MIN"
+    }, 
+    {
+      "stat": "1402", 
+      "name": "Doug Martin", 
+      "rank": 2, 
+      "team": "TB"
+    }, 
+    {
+      "stat": "1106", 
+      "name": "Todd Gurley", 
+      "rank": 3, 
+      "team": "STL"
+    }, 
+    {
+      "stat": "1089", 
+      "name": "Darren McFadden", 
+      "rank": 4, 
+      "team": "DAL"
+    }, 
+    {
+      "stat": "1070", 
+      "name": "Chris Ivory", 
+      "rank": 5, 
+      "team": "NYJ"
+    }
+  ], 
+  "passing-leaders": [
+    {
+      "stat": "4870", 
+      "name": "Drew Brees", 
+      "rank": 1, 
+      "team": "NO"
+    }, 
+    {
+      "stat": "4792", 
+      "name": "Philip Rivers", 
+      "rank": 2, 
+      "team": "SD"
+    }, 
+    {
+      "stat": "4770", 
+      "name": "Tom Brady", 
+      "rank": 3, 
+      "team": "NE"
+    }, 
+    {
+      "stat": "4671", 
+      "name": "Carson Palmer", 
+      "rank": 4, 
+      "team": "ARI"
+    }, 
+    {
+      "stat": "4591", 
+      "name": "Matt Ryan", 
+      "rank": 5, 
+      "team": "ATL"
+    }
+  ]
+}

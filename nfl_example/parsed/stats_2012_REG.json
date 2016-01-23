@@ -1,0 +1,194 @@
+{
+  "receiving-leaders": [
+    {
+      "stat": "1964", 
+      "name": "Calvin Johnson", 
+      "rank": 1, 
+      "team": "DET"
+    }, 
+    {
+      "stat": "1598", 
+      "name": "Andre Johnson", 
+      "rank": 2, 
+      "team": "HOU"
+    }, 
+    {
+      "stat": "1508", 
+      "name": "Brandon Marshall", 
+      "rank": 3, 
+      "team": "CHI"
+    }, 
+    {
+      "stat": "1434", 
+      "name": "Demaryius Thomas", 
+      "rank": 4, 
+      "team": "DEN"
+    }, 
+    {
+      "stat": "1384", 
+      "name": "Vincent Jackson", 
+      "rank": 5, 
+      "team": "TB"
+    }
+  ], 
+  "interception-leaders": [
+    {
+      "stat": "9", 
+      "name": "Tim Jennings", 
+      "rank": 1, 
+      "team": "CHI"
+    }, 
+    {
+      "stat": "8", 
+      "name": "Stevie Brown", 
+      "rank": 2, 
+      "team": "NYG"
+    }, 
+    {
+      "stat": "8", 
+      "name": "Richard Sherman", 
+      "rank": 3, 
+      "team": "SEA"
+    }, 
+    {
+      "stat": "7", 
+      "name": "Patrick Peterson", 
+      "rank": 4, 
+      "team": "ARI"
+    }, 
+    {
+      "stat": "6", 
+      "name": "Thomas DeCoud", 
+      "rank": 5, 
+      "team": "ATL"
+    }
+  ], 
+  "sack-leaders": [
+    {
+      "stat": "20.5", 
+      "name": "J.J. Watt", 
+      "rank": 1, 
+      "team": "HOU"
+    }, 
+    {
+      "stat": "19.5", 
+      "name": "Aldon Smith", 
+      "rank": 2, 
+      "team": "SF"
+    }, 
+    {
+      "stat": "18.5", 
+      "name": "Von Miller", 
+      "rank": 3, 
+      "team": "DEN"
+    }, 
+    {
+      "stat": "15.0", 
+      "name": "Cameron Wake", 
+      "rank": 4, 
+      "team": "MIA"
+    }, 
+    {
+      "stat": "13.0", 
+      "name": "Clay Matthews", 
+      "rank": 5, 
+      "team": "GB"
+    }
+  ], 
+  "tackle-leaders": [
+    {
+      "stat": "164", 
+      "name": "Luke Kuechly", 
+      "rank": 1, 
+      "team": "CAR"
+    }, 
+    {
+      "stat": "148", 
+      "name": "NaVorro Bowman", 
+      "rank": 2, 
+      "team": "SF"
+    }, 
+    {
+      "stat": "148", 
+      "name": "Chad Greenway", 
+      "rank": 3, 
+      "team": "MIN"
+    }, 
+    {
+      "stat": "147", 
+      "name": "Jerod Mayo", 
+      "rank": 4, 
+      "team": "NE"
+    }, 
+    {
+      "stat": "145", 
+      "name": "Jerrell Freeman", 
+      "rank": 5, 
+      "team": "IND"
+    }
+  ], 
+  "rushing-leaders": [
+    {
+      "stat": "2097", 
+      "name": "Adrian Peterson", 
+      "rank": 1, 
+      "team": "MIN"
+    }, 
+    {
+      "stat": "1613", 
+      "name": "Alfred Morris", 
+      "rank": 2, 
+      "team": "WAS"
+    }, 
+    {
+      "stat": "1590", 
+      "name": "Marshawn Lynch", 
+      "rank": 3, 
+      "team": "SEA"
+    }, 
+    {
+      "stat": "1509", 
+      "name": "Jamaal Charles", 
+      "rank": 4, 
+      "team": "KC"
+    }, 
+    {
+      "stat": "1454", 
+      "name": "Doug Martin", 
+      "rank": 5, 
+      "team": "TB"
+    }
+  ], 
+  "passing-leaders": [
+    {
+      "stat": "5177", 
+      "name": "Drew Brees", 
+      "rank": 1, 
+      "team": "NO"
+    }, 
+    {
+      "stat": "4967", 
+      "name": "Matthew Stafford", 
+      "rank": 2, 
+      "team": "DET"
+    }, 
+    {
+      "stat": "4903", 
+      "name": "Tony Romo", 
+      "rank": 3, 
+      "team": "DAL"
+    }, 
+    {
+      "stat": "4827", 
+      "name": "Tom Brady", 
+      "rank": 4, 
+      "team": "NE"
+    }, 
+    {
+      "stat": "4719", 
+      "name": "Matt Ryan", 
+      "rank": 5, 
+      "team": "ATL"
+    }
+  ]
+}
