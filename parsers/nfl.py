@@ -182,7 +182,7 @@ class NflParser(object):
         return player
             
     def _get_player_name(self, player_container):
-        """Extrancts a player's name from the player_container.
+        """Extracts a player's name from the player_container.
         
         Args:
             player_container (object): A BeautifulSoup object containing player information.
@@ -192,7 +192,7 @@ class NflParser(object):
         return player_name
         
     def _get_player_team(self, player_container):
-        """Extrancts a player's team from the player_container.
+        """Extracts a player's team from the player_container.
         
         Args:
             player_container (object): A BeautifulSoup object containing player information.
@@ -202,7 +202,7 @@ class NflParser(object):
         return player_team
         
     def _get_player_stat(self, player_container):
-        """Extrancts a player's stat value from the player_container.
+        """Extracts a player's stat value from the player_container.
         
         Args:
             player_container (object): A BeautifulSoup object containing player information.
