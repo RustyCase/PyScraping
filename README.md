@@ -39,6 +39,7 @@ pip install -r requirements.txt
 <pre>
 python PyScraping.py
 </pre>
+5. All downloaded files will be found in \PyScraping\nfl_example and parsed files will be found in \PyScraping\nfl_example\parsed
 
 ### Helpful Links
 
